@@ -36,7 +36,7 @@ As well as the OSS having a clear and relevant humanitarian need, if a community
 
 1. To build a community around a real life humanitarian OSS project (in case of the Open Design project this is Ushahidi's [TenFour](https://www.tenfour.org/)) with designers interested and willing to contribute and give feedback on the tools and processes through their involvement. To build up a critical mass of participants for the above we conduct two in-person workshops where we engage and enable interested designers by a mixed set of methods.
 	
-2. Immersion through storytelling: We build empathy with users of Ten Four by developing a visually enhanced story around a realistic disaster scenario. This is supported by people who have experienced the OSS's primary humanitarian purpose that we call 'Witnesses'. _Example: A Witness for TenFour can be someone who was in a city at the time a hurricane hit.
+2. Immersion through storytelling: We build empathy with users of Ten Four by developing a visually enhanced story around a realistic disaster scenario. This is supported by people who have experienced the OSS's primary humanitarian purpose that we call 'Witnesses'. _Example: A Witness for TenFour can be someone who was in a city at the time a hurricane hit._
 
 3. Inviting ‘Witnesses’ to be part of the process: Witnesses are people that have direct experience of the crisis scenario we are trying to solve in the Open Design workshops. They are there to build deeper understanding of real life experiences of a humanitarian need.
 
@@ -77,17 +77,17 @@ As well as the OSS having a clear and relevant humanitarian need, if a community
 
 9. Events are best for issues that explore an extension of an existing feature in a new way, a new feature that needs design thinking/exploration, and/or a feature that requires physical understanding of the feature used to be effectively designed.
 
-10. An introduction to where the OSS project is hosted (_Example: GitHub, Gitlab, Forum, Website etc.) must be released pre-event and covered at the beginning of the event.
+10. An introduction to where the OSS project is hosted (_Example: GitHub, Gitlab, Forum, Website etc.) must be released pre-event and covered at the beginning of the event._
 
 11. An intro to the OSS must be done at the beginning of the event. [Example slide deck](https://drive.google.com/file/d/1B80_hcdWD-7SQFdssUzzRegfChtbwjdH/view)
 
-12. The ‘features’, ‘issues’ or ‘epics’ needing focus must be ‘challenge’ based. _Example: “TenFour is a crisis communication tool for teams to get in touch with each other remotely using messages called ‘check-ins’. There is currently no way for people using TenFour to broadcast a ‘status’ to the wider team independently of a ‘check-in’. We’d like to investigate the ways in which this can be implemented as inclusively as possible and as well defined as possible. This could include multiple issues describing what needs doing e.g. research, cataloging design, UX, UI, graphics, usertesting etc. as well as the limitations that the designers are operating within constraints such as  there is no ability to A/B test.”
+12. The ‘features’, ‘issues’ or ‘epics’ needing focus must be ‘challenge’ based. _Example: “TenFour is a crisis communication tool for teams to get in touch with each other remotely using messages called ‘check-ins’. There is currently no way for people using TenFour to broadcast a ‘status’ to the wider team independently of a ‘check-in’. We’d like to investigate the ways in which this can be implemented as inclusively as possible and as well defined as possible. This could include multiple issues describing what needs doing e.g. research, cataloging design, UX, UI, graphics, usertesting etc. as well as the limitations that the designers are operating within constraints such as  there is no ability to A/B test.”_
 
 13. For virtual events or such that offer remote or asynchronous participation, there must also be ‘solo’ issues available within the chosen ‘feature/epic/issue’ in order to enable contribution from across time zones and work availability. 
 
-14. It is encouraged to invite already existing ‘teams’. _Example: The team at ‘Corporation X’ has an on staff researcher, UX designer, graphic designer and product manager, and they join the event as a team.
+14. It is encouraged to invite already existing ‘teams’. _Example: The team at ‘Corporation X’ has an on staff researcher, UX designer, graphic designer and product manager, and they join the event as a team._
 
-15. Existing teams at companies/organisations can attend the events and work together but it is encouraged that they attempt to fill a skill/function gap. _Example: The team at ‘Corporation X’ has an on staff researcher, UX designer, graphic designer and product manager. But does not have a prototyper on staff. Therefore, they must look to other attendees at the event to fill this gap.
+15. Existing teams at companies/organisations can attend the events and work together but it is encouraged that they attempt to fill a skill/function gap. _Example: The team at ‘Corporation X’ has an on staff researcher, UX designer, graphic designer and product manager. But does not have a prototyper on staff. Therefore, they must look to other attendees at the event to fill this gap._
 
 16. The groups at an in-person event should be able to collaborate effectively together and feel as though they are contributing effectively. We acknowledge that everyone has a ‘design’ opinion and that the focus of the project must be ‘X’ centred design.
 
@@ -95,7 +95,7 @@ As well as the OSS having a clear and relevant humanitarian need, if a community
 
 18. Where volunteered, participants can establish a ‘mentoring’ process where someone with experience and/or proficiency in a given area can support someone who has signalled the need for development in this area.
 
-19. Where available a group or individual who has been affected by the problem the OSS is trying to solve should be present at an event. Open Design calls these folks 'Witnesses' _Example: If the OSS attempts to solve an issue around earthquakes, a person who has experienced an earthquake should be present to add insight and context.
+19. Where available a group or individual who has been affected by the problem the OSS is trying to solve should be present at an event. Open Design calls these folks 'Witnesses' _Example: If the OSS attempts to solve an issue around earthquakes, a person who has experienced an earthquake should be present to add insight and context._
 
 20. Mitigate the use of design jargon and allow for specific, relevant insight into the feasibility of a design ‘solution’.
 
@@ -103,7 +103,7 @@ As well as the OSS having a clear and relevant humanitarian need, if a community
 
 22. An ideal research+design+dev workflow defined by the OSS project must be available. It is suggested but not mandatory to follow. However, your design contributions must be contributed in a way that the OSS project can use it.
 
-23. Where available, a person who has worked on or involved in the development and coding aspect of the OSS should be present to discuss feasibility of implementation. _Example: Developer, OSS owner, product manager.
+23. Where available, a person who has worked on or involved in the development and coding aspect of the OSS should be present to discuss feasibility of implementation. _Example: Developer, OSS owner, product manager._
 
 24. An in-person event strongly suggests the teams agree on a method of online/virtual communication that is secure and end-to-end encrypted (Telegram, Signal, Email, Whatsapp) for groups and attendees to communicate pre-event, during and post-event. This communication method must be safe and not criminalised in the country that the event occurs.
 
@@ -144,7 +144,7 @@ There will be people that can offer insight but not time. Therefore, there shoul
 
 There will be people that can only offer small amounts of time to help and there should be issues able to be completed in under 2 hours.
 
-There will be people that have certain skill competency (self-described) and will only want to assist in that skill competency. There are also people that work across competencies _Example: A design able to contribute both UX skills and UI skills.
+There will be people that have certain skill competency (self-described) and will only want to assist in that skill competency. There are also people that work across competencies _Example: A design able to contribute both UX skills and UI skills._
 
 There will be people that are not competent in a skill, but want to help on an issue that they can gain mentoring and support from a competent skilled professional.
 
