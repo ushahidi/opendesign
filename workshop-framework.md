@@ -115,14 +115,24 @@ Because of the nature of some humanitarian OSS projects, there may be a need for
 
 ## Template for further workshops
 
-City name: Disaster/Relevant scenario type + TenFour/OSS:
-News story: [Link goes here]()
+**City name:** Disaster/Relevant scenario type + TenFour/OSS:
+**News story:** [Link goes here]
 
-Witnesses to reach out to: 
+/Example:
+**City name:** Bangalore: Kerala flood rescue + TenFour:
+**News story:** [gulfnews kerala story](https://gulfnews.com/world/asia/india/for-second-year-in-a-row-kerala-floods-wreak-deadly-havoc-1.1565616937234)
+
+**Witnesses to reach out to:** 
 Look for meetup groups, community groups, conference contacts and anyone with experience of the crisis/OSS product focus.
 People to invite: Invite attendees to the workshop. Can be via a/the conference or connected communities in the locality.
-TenFour/OSS Issue to focus on:
 
+
+**People to invite:**
+If there are specific people/groups you want to be invovled in the workshop.
+
+*Example: One of the issues that we will focus on in the workshop has chatbot functionality therefore we want to ask people with some chatbot experience to attend.
+
+TenFour/OSS Issue to focus on:
 | Title of issue| Description of issue| Issue link  | Action needed                    |
 | ------------- |:-------------:      | ----------: | --------------------------------:|
 | Issue title   | Issue Description   |  [Link/s]   | Any actions on the issue needed? |
@@ -136,7 +146,7 @@ TenFour/OSS Issue to focus on:
 | **SOS button & Status updates**  | In certain situations, my request may be extremely urgent and I may be in immediate danger. In these cases I need ways of communicating information to my org that maintains my safety and communicates the severity of the problem.   |  [Issue 106](https://github.com/ushahidi/tenfour/issues/106) [Issue 66](https://github.com/ushahidi/tenfour/issues/66)   | Merging of the two issues and clearly defining the needs of the feature. |
 
 
-Other issues that might be connected & important are:
+**Other issues that might be connected & important are:**
 - Title + description of issue - [issue link]
 - Title + description of issue - [Epic issue link]
       - Title + description of sub-issue [link]
@@ -159,7 +169,7 @@ Kerala ex-resident - remote volunteer - Concerns are how to help family & friend
 [Located here TBC](https://drive.google.com/open?id=10HkPK6viEAXvXYcuuQEZPJrKKC9G6fDH)
 
 
-##Sticker sheet files.
+## Sticker sheet files.
 [Located here](https://github.com/ushahidi/tenfour/blob/develop/design-contributions.md)
 
 
