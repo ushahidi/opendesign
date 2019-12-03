@@ -23,17 +23,17 @@ Our witness was Akhila, a researcher involved in researching the Kerala flooding
 
 ## Workshop Observations
 
-> Full Workshop, around 40.
-> Participants from all over India.
-> Design savvy.
-> Split of interested in OSS and interested in Humanitarian. 
-> Most agreed on Humanitarian principles for design led contributions.
-> Ran 1 hour over time.
-> Unclear start time.
-> The general adoption to Adobe XD as a tool to prototype was super fast. Not everyone had used before.
-> There was a lot of enthusiasm in the room and a lot of the participants wanted to know more about TenFour and Open Design.
-> Breaks need to be better considered.
-> If a workshop is to be part of a conference it's best to do that on a dedicated workshop day and not alongside speaker slots.
+* Full Workshop, around 40.
+* Participants from all over India.
+* Design savvy.
+* Split of interested in OSS and interested in Humanitarian. 
+* Most agreed on Humanitarian principles for design led contributions.
+* Ran 1 hour over time.
+* Unclear start time.
+* The general adoption to Adobe XD as a tool to prototype was super fast. Not everyone had used before.
+* There was a lot of enthusiasm in the room and a lot of the participants wanted to know more about TenFour and Open Design.
+* Breaks need to be better considered.
+* If a workshop is to be part of a conference it's best to do that on a dedicated workshop day and not alongside speaker slots.
 
 
 
