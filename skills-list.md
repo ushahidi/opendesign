@@ -23,11 +23,13 @@
 * Design
 * UX Design
 * Research
+* Design
 
 ### Want to share
 
 * Storytelling
 * Information Architechture
 * Agricultural issues
+* Graphic Design
 
 
