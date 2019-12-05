@@ -30,6 +30,7 @@ Mei Mei Chen's organisations [Go Farmer](bit.ly/go-farmer) and [Rong Naida](http
 * Two witnesses brought a great dynamic to the room and they were well prepared.
 * The way groups voted was different, one group did a democractic voting system on the challenges and another deciding which was the most important for the farmers to solve and chose that one.
 * Very diverse skilll set in this conference/group but all with the singular factors of: Wanting to improve design contribution and Humanitarian focus.
+* The conference had planned workshops back to back and therefore we started 15 minute late due to needing to set up and ran 10 mins over when cleaning up afterwards for the next workshop. Send set-up and take-down times to organisers of conferences pre-event.
 
 ## Learnings
 
@@ -42,3 +43,4 @@ Methodology
 Workshop Framework
 1. Challenges are now too long. Answering the probing questions from the previous workshop and adding them here as pre-answers is not affective.
 2. 5 challenges were too many to cover in the workshop time.
+3. Workshop is best delivered with two Open Design leaders and 1 assistant with a content and social focus.
