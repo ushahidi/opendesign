@@ -1,5 +1,13 @@
 # About Open Design
 
+## How to talk to us
+
+You can join the Open Design slack [here](https://join.slack.com/t/open-design-is/shared_invite/enQtODMwMzE0MTgxMDkyLTk0MGViYWI0NWJjNjQ3NDM5MzNjNDcwYjNmYzc3NmFlYTZkODVlMzY3ZDc3NTY5MzI5M2E5NzM2ZWU1YjMxNmE)
+
+You can talk to us on any of the Open Design issues via comments.
+
+You can contact us via [twitter @Opendesignis](https://twitter.com/opendesignis) and [facebook @opendesignis (https://www.facebook.com/OpenDesignIs/)
+
 ## Design should be open for all.
 A project to create accessible processes for designers to collaborate and contribute to humanitarian open source software.
 
