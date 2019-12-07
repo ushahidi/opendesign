@@ -1,6 +1,8 @@
 # TenFour master XD design file version control
 
-Master XD file located here: http://bit.ly/tenfour-xd
+Master XD folder located here: http://bit.ly/TenFour-master-XD-folder
+
+Master XD direct download file located here: http://bit.ly/tenfour-xd
 
 Master font files located here: http://bit.ly/tenfourfonts
 
@@ -8,4 +10,4 @@ Master font files located here: http://bit.ly/tenfourfonts
 
 * Master file linked/uploaded by [Eriol Fox](https://github.com/Erioldoesdesign) on 7th of December 2019
 
-* Master file linked/uploaded by *Type your GitHub username here and the date.
+* Master file linked/uploaded by *Type your GitHub username here and the date.*
