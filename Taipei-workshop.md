@@ -22,7 +22,7 @@ Our witness was Mei Mei Chen, a 'Office Lady' who became heavily involved with t
 
 Mei Mei Chen's organisations [Go Farmer](bit.ly/go-farmer) and [Rong Naida](https://www.facebook.com/groups/197584700968133/) and [Good people club](https://www.facebook.com/%E5%A5%BD%E4%BA%BA%E6%9C%83%E9%A4%A8-321962754494111/) a [video about the Typhoons](https://t.co/LcahuFVOvA).
 
-##Workshop Observations
+## Workshop Observations
 
 * 38 people down to around 32 after the first break.
 * Unclear some of the time commitments and splitting the two workshops in half.
@@ -45,7 +45,7 @@ Mei Mei Chen's organisations [Go Farmer](bit.ly/go-farmer) and [Rong Naida](http
 
 Learnings on how to amend the methodology and/or the workshop framework.
 
-Methodology
+### Methodology
 1. Similar questions about restriction vs. freedom to design came up from this group. This is a key component for wider involvements from designers in FOSS is the degree to which the FOSS can allow for and encourage design exploration as part of their contribution process.
 2. Some attendees considered challenges from a 'scope' pov. What was acheivable in the set workshop time vs. that they wanted to spend more time on. Suggestion for design issues is an estimated amount of time to spend on an issue or at least an indication from the FOSS on how long they consider a design contribution time wise.
 3. Comments from developers around when 'design' is complete and ready to be developed.
@@ -54,7 +54,7 @@ Methodology
 6. Benefits of having a developer of the OSS software present made clear by some more developer focussed attendees asking about the tech stack of the OSS and how to work with it. In this case Ionic & PWA's.
 
 
-Workshop Framework
+### Workshop Framework
 1. Challenges are now too long. Answering the probing questions from the previous workshop and adding them here as pre-answers is not affective.
 2. 5 challenges were too many to cover in the workshop time.
 3. Workshop is best delivered with two Open Design leaders and 1 assistant with a content and social focus.
