@@ -33,3 +33,13 @@
 * Graphic Design
 
 
+## A list of new skills/insights that people learned 
+
+* Co-working online in 3 days
+* How to use Adobe XD
+* Google doc teamwork
+* Job assignment - Plan, Design, Report
+* Learning about people's professions
+* Learned different people in different divisions makes work efficient
+
+
