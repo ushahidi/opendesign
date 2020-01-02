@@ -18,7 +18,7 @@ You can find the workshop planning document [here](https://docs.google.com/docum
 
 ## Witness
 
-Our witness was Akhila, a researcher involved in researching the Kerala flooding of 2018 and 2019. Akhila works for [Centre for Migration and Inclusive Development](http://cmid.org.in/)
+Our witness was Akhila, a researcher involved in researching the Kerala flooding of 2018 and 2019. Akhila works for [Centre for Migration and Inclusive Development](http://cmid.org.in/) you can find their report on the Kerala floodings in .PDF format via a google drive link [here](https://drive.google.com/file/d/1UxIHvOEyT_aXqbKeJX1ayRpBjwmQP4G5/view?fbclid=IwAR03289j1ehOmDnHjWm996xQtMIAy8grAAZU1Koa5KiO8zHltVQGLQrT0Xg)
 
 
 ## Workshop Observations
