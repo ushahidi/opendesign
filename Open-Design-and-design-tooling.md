@@ -1,0 +1,7 @@
+# Open Design on design tooling.
+
+Conversations around the tools we use will happen naturally within the design community. The Open Design team understand there is a plethora of tools in the design industry and individuals have either a preference or a necessity to use one or more for their own reasons. We don’t advocate for designers to stop using their tools, but to recognise that alignment on tooling is a key factor for an efficient and friction-free contribution to any project of focus. Hence the same is a key component on wider success for contribution of design in OSS.
+
+Open Design centres on TenFour as an OSS case study, and the team at Ushahidi working on TenFour uses Adobe XD. The XD team has shown proof of integrating and inter-operating with many co-existing and competing design tools on the market, to enable a friction-free design process with lowest possible constraints such as hardware requirements. XD is available for macOS and Windows, easy to use, doesn’t require a high-speed internet connection and works offline, provides an all-in-one featureset that covers the full scope of TenFour’s interaction models including voice interaction, imports Sketch- and other file formats, and is available for free. Using XD will be the best way for design contributions to be integrated into the internal design process at Ushahidi.
+
+The Open Design frameworks, principles and methods aim to be as tool agnostic as possible and prioritise the benefits to both the OSS project and the designers experience with contributing.
